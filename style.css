@@ -1,0 +1,9 @@
+.profile-img {
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+
+#gallery {
+    margin-top: 100px;
+}
